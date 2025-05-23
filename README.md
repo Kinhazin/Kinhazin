@@ -1,10 +1,11 @@
 ## Sobre mim
 
 - ⚙️ Um desenvolvedor em desenvolvimento.
-- 🎓 Cursando análise e desenvolvimento de sistemas no Senac (3/5).
+- 🎓 Cursando análise e desenvolvimento de sistemas no Senac (3/5). 
 - 💼 Estagiário full-stack na telefônica - VIVO 💜.
 - 🌱 Aprendendo mais sobre Node.js, React.js, MySQL e Java.
-- 📅 Atualmente desenvolvendo um projeto focado em automação de scripts de redes.
+- 📅 Atualmente desenvolvendo um projeto focado em automação de scripts de redes. 
+
 
 ## Minhas Skills
 
@@ -34,6 +35,8 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinhazin&layout=compact&theme=radical)
 
 ## Onde me encontrar
 
