@@ -1,11 +1,12 @@
+# Lucas Amorim Maia
+
 ## Sobre mim
 
-- ⚙️ Um desenvolvedor em desenvolvimento.
-- 🎓 Cursando análise e desenvolvimento de sistemas no Senac (3/5). 
-- 💼 Estagiário full-stack na telefônica - VIVO 💜.
-- 🌱 Aprendendo mais sobre Node.js, React.js, MySQL e Java.
-- 📅 Atualmente desenvolvendo um projeto focado em automação de scripts de redes. 
-
+- ⚙️ Desenvolvedor em desenvolvimento.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas no Senac (3/5).
+- 💼 Estagiário full-stack na Telefônica - VIVO 💜.
+- 🌱 Aprendendo Node.js, React.js, MySQL e Java.
+- 📅 Atualmente desenvolvendo um projeto focado em automação de scripts de redes.
 
 ## Minhas Skills
 
@@ -34,12 +35,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinhazin&layout=compact&theme=radical)
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-amorim-maia/)](https://www.linkedin.com/in/lucas-amorim-maia/)
-[![Gmail Badge](https://img.shields.io/badge/-lucasmaiacisco@gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmaiacisco@gmail.com)](mailto:lucasmaiacisco@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Kinhazin)
+[![LinkedIn](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-amorim-maia/)](https://www.linkedin.com/in/lucas-amorim-maia/)  
+[![Gmail Badge](https://img.shields.io/badge/-lucasmaiacisco@gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmaiacisco@gmail.com)](mailto:lucasmaiacisco@gmail.com)  
+[![GitHub](https://img.shields.io/github/followers/Kinhazin?label=follow&style=social)](https://github.com/Kinhazin)
